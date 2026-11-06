@@ -1,0 +1,6 @@
+Pikachu pixel sprite:
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
+Repository: https://github.com/PokeAPI/sprites
+Pokémon and Pokémon character designs belong to their respective owners.
+
+Profile block character: drawn directly in CSS for this portfolio.
